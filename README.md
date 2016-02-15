@@ -4,7 +4,9 @@
 <p>
 Include jQuery before this script<br />
 Include this script<br />
+<pre>
 <script type="text/javascript" src="path/to/script/fb-event-import.js)"></script>
+</pre>
 <br />
 <br />
 Open fb-event-import.js file and set configuration variables<br /><br />
