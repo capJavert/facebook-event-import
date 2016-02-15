@@ -3,7 +3,8 @@
 <h3>Install</h3>
 <p>
 Include jQuery before this script<br />
-<code>jquery.js)&quot;&gt;&lt;/script&gt;
+<code>
+&lt;script type=&quot;text/javascript&quot; src=&quot;path/to/script/jquery.js)&quot;&gt;&lt;/script&gt;
 </code><br/><br/>
 Include this script<br />
 <code>
