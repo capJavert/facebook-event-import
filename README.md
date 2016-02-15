@@ -3,10 +3,12 @@
 <h3>Install</h3>
 <p>
 Include jQuery before this script<br />
+<code>jquery.js)&quot;&gt;&lt;/script&gt;
+</code><br/><br/>
 Include this script<br />
-<pre>
-<script type="text/javascript" src="path/to/script/fb-event-import.js)"></script>
-</pre>
+<code>
+&lt;script type=&quot;text/javascript&quot; src=&quot;path/to/script/fb-event-import.js)&quot;&gt;&lt;/script&gt;
+</code>
 <br />
 <br />
 Open fb-event-import.js file and set configuration variables<br /><br />
